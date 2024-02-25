@@ -500,7 +500,7 @@
         }
     },
     {
-        "id": "bc7754b217686109fa44c41b769926bc8ce9d0bb70d961f6033146dd9909c8c9i0",
+        "id": "edc74267c684851b037746fdf4c9f10a57b561420d166e69721d083104419816i0",
         "meta": {
             "name": "Ape 27",
             "attributes": [
@@ -532,17 +532,17 @@
         }
     },
     {
-        "id": "34eda2ce303b6141f56522f663b4fd572cc9b92759ceb9965f901df13b799f3di0",
+        "id": "74a51736a9594114ffbd4dcf686610d14edc53b2b373b9b72e334fbd23d39348i0",
         "meta": {
             "name": "Ape 29",
             "attributes": [
                 {
                     "trait_type": "Direction",
-                    "value": "Left Facing"
+                    "value": "Right Facing"
                 },
                 {
                     "trait_type": "Background",
-                    "value": "Color Splash"
+                    "value": "Black"
                 }
             ]
         }
@@ -887,23 +887,7 @@
                 {
                     "trait_type": "Background",
                     "value": "Black"
-                }
-            ]
-        }
-    },
-    {
-        "id": "74a51736a9594114ffbd4dcf686610d14edc53b2b373b9b72e334fbd23d39348i0",
-        "meta": {
-            "name": "Ape 51",
-            "attributes": [
-                {
-                    "trait_type": "Direction",
-                    "value": "Right Facing"
-                },
-                {
-                    "trait_type": "Background",
-                    "value": "Black"
-                }
+                }    
             ]
         }
     }
