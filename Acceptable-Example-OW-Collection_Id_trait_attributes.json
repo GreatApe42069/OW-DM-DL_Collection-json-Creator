@@ -497,7 +497,7 @@
         }
     },
     {
-        "id": "Later Revealed Easter Egg",
+        "id": "edc74267c684851b037746fdf4c9f10a57b561420d166e69721d083104419816i0",
         "meta": {
             "name": "Ape 27",
             "attributes": [
@@ -884,6 +884,606 @@
                 {
                     "trait_type": "Background",
                     "value": "Black"
+                }    
+            ]
+        }
+    },
+    {
+        "id": "e6d417c1e4d3c098c4ad126eca88c583678ae5f967c82be646d215312a89cc80i0",
+        "meta": {
+            "name": "Ape 1 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "5eb2f086b9c69d3d44a51bb31576ca737ddf30c67fedeb2cb2da5cba6e7870ebi0",
+        "meta": {
+            "name": "Ape 2 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "775b9b8b269d8b089c14b04441454d6ebe493a3e1fb53fdee3b6b4471953d9e5i0",
+        "meta": {
+            "name": "Ape 3 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b9828dfb61daf2185942075a0fd64e4a0a2baa7e48cf38cb8e6d87d2fa9222d0i0",
+        "meta": {
+            "name": "Ape 4 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6fda211a9a7acd581ae249bff517f44908507e0f08a1812c590c1befa8d0c24fi0",
+        "meta": {
+            "name": "Ape 5 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "285bdb1796f7f8e27aa63ea3af81560c2058a4b0214c1c2171162d3a931d6921i0",
+        "meta": {
+            "name": "Ape 6 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "ffd442b186ad08658ae85c61bbd92f4da7f367d775c21158c4db97337cadbfbai0",
+        "meta": {
+            "name": "Ape 7 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1b6cfaf8886eb0d68e528d4b18f187aab1451cd2356c9cf2a86fd86ff70c7e17i0",
+        "meta": {
+            "name": "Ape 8 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b02ec55e8191538d8c7bb1e244a3f6eed2b6de07f2cae010517fcdbc8caa81a9i0",
+        "meta": {
+            "name": "Ape 9 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "31fe5aaad383bc255cacf838d65d8dc38217175ee9e1d3a29c801d829f83305bi0",
+        "meta": {
+            "name": "Ape 10 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "800733a871382d4d5333d0d125d17cdc1f92753ba17159eed10d21ac0fd4db21i0",
+        "meta": {
+            "name": "Ape 11 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "344c99321f6f9a2e690d66ae647a89ebd848b68d8924fe8c8ca617362f7d8ae6i0",
+        "meta": {
+            "name": "Ape 12 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "db8abaa6fcd96706b07baaee57688af0cf22f6fed0c91bfa54b501ff610d6ff4i0",
+        "meta": {
+            "name": "Ape 13 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "8a0b02cfbf4982f61785bda49bd862c8e9925a3a0c8f0441601de99164a7a92ai0",
+        "meta": {
+            "name": "Ape 14 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "4fbf921363ab50d9e0fe1f870056fade15a3072d4b6f99f33bd64453d38d9a93i0",
+        "meta": {
+            "name": "Ape 15 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "54bf0cc9662c0d3d3b2495bfab5fdeb8394ce1d3e68318d76ca1d0f303d0b3f2i0",
+        "meta": {
+            "name": "Ape 16 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "151f58668cd9370801b675d22f8552dfa9c156120b118fddaa9229f45d99f65fi0",
+        "meta": {
+            "name": "Ape 17 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "3f743b77dca25268499cd90ab074754f50629069a4381cf65c2fc6806426fdaci0",
+        "meta": {
+            "name": "Ape 18 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e9cc7f4f0ee08bbc9b4ee86a4a039e7cd08702bbcf7984f493bfc5f962d77cd7i0",
+        "meta": {
+            "name": "Ape 19 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "befcc99ff6f2f5a1cdefa2bfbd8a2f7d7ce3ca9fdd2e99b5b08b6eac116312e5i0",
+        "meta": {
+            "name": "Ape 20 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "222fd177bfeb0cd5acc06d2af0826d264d48987b70630fbc904cadf984b2c78fi0",
+        "meta": {
+            "name": "Ape 21 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "140c9893dc8d2a0c07e1b32a0cd52f9398754ccd937e1affe962f6a130fb4849i0",
+        "meta": {
+            "name": "Ape 22 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6eab24c3edb0fabf6fff9a37e97bcd3fce5ed17854edb635833e993aa9d84c3di0",
+        "meta": {
+            "name": "Ape 23 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "d60bbbbb12a0ec4e44f914b812cdaf5798b979061161c4c4f206fbe0ba946774i0",
+        "meta": {
+            "name": "Ape 24 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "a68e065c2824db4d9e8d796785bb6bfcba7ea6d129cced823f62a987e439a0b6i0",
+        "meta": {
+            "name": "Ape 25 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6a84fbd23956f525d93b50c766b1de1e42aaf2815923025bb02b0000cd16fa80i0",
+        "meta": {
+            "name": "Ape 26 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6a84fbd23956f525d93b50c766b1de1e42aaf2815923025bb02b0000cd16fa80i0",
+        "meta": {
+            "name": "Easter Ape 27 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "275efd141108175f279bf469715ca212b5cea97426d6ae336aca64a8cb3e03cai0",
+        "meta": {
+            "name": "Ape 28 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "31af57277f6653fc02653ceb21d3393349336c7b032b06681b68710f7519111ai0",
+        "meta": {
+            "name": "Ape 29 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "126d0380dfc22329db522fb8a14fa907c49fe72af1da53e9d3e171439d1cb163i0",
+        "meta": {
+            "name": "Ape 30 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0f3938d7908941e6a572d840877656faedb362c85b33a0c15482376b4998ffcai0",
+        "meta": {
+            "name": "Ape 31 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "b3f54e6d28b0480c77df91d29feb88e3cd66ffb373d558ed65f8b456717b588di0",
+        "meta": {
+            "name": "Ape 32 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9e7f4d6e2ede2de81bfeebfbee7ea6d70be6cc9bf0a3f013850be7350400ac13i0",
+        "meta": {
+            "name": "Ape 33 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c50bda99de7ff997c01646131a058f26bc305bbb31d481670d7d0786bf6c36a0i0",
+        "meta": {
+            "name": "Ape 34 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "6dde02ae7efb4d62e96a4a6eb7e18569e263a4ee586e8882666319b16ed44951i0",
+        "meta": {
+            "name": "Ape 35 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "daca656f174630aa4d34698d7cf5c6c3987d1d2306ee9d0a2cec600dcee7e16fi0",
+        "meta": {
+            "name": "Ape 36 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "2d147592e8d4bee5d36362bf5384265e078ea4715efbb1ac73605554f36df559i0",
+        "meta": {
+            "name": "Ape 37 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "153605ac3cc6cf15253439b9b5c8018fba6e252cb4e5629a7d3bb4ea8ac09e5bi0",
+        "meta": {
+            "name": "Ape 38 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "876817ededb196c93845e84badeaf69534ac6b878ec01b2b916165e70f0f51f3i0",
+        "meta": {
+            "name": "Ape 39 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "81c904bf39076a58e7f7c9eea178ec760ab2b3fcd7e679384bd72cfc157a5f7fi0",
+        "meta": {
+            "name": "Ape 40 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "9d949306eeccab6b997f0d5b6d18595d846edb81e165cb859a4036aa63b2f9f5i0",
+        "meta": {
+            "name": "Ape 41 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "1d92ad4a1c2b9e093e7f8c41852c757b323941378eae6f3a81cdf01ce3ee5703i0",
+        "meta": {
+            "name": "Ape 42 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "0f0b0d91c6c0b0901182fc5a5c55bcc28634cda64a10592496ab9273ebd53c09i0",
+        "meta": {
+            "name": "Ape 43 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "cd5a793184453ce44b713adb13aebaa85a3102be86f04582d7f31851a31d9507i0",
+        "meta": {
+            "name": "Ape 44 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "e0b590b209c4f0a34e5e4b24f0a3b91d4c6285bcda010bcbb434f21bae31ffafi0",
+        "meta": {
+            "name": "Ape 45 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+    "id": "23fe0e3e85cee371d81d3b2ff0097f5c2c88f6241447ff3e3d7036935483135fi0",
+    "meta": {
+        "name": "Ape 46 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "27c99b960643d2fa3c1ccee70862615a38d462ce565d20039a35c785f2c02cc9i0",
+        "meta": {
+            "name": "Ape 47 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "baac0b26b246b7e3f856572a491ded1c1c2e834ab4c824e932b9420ae8b45c31i0",
+        "meta": {
+            "name": "Ape 48 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+    "id": "ec3fa1507368b4439f86b047ecd59eb4163b6d836602508d0f474cd983cdd3cbi0",
+    "meta": {
+        "name": "Ape 49 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                }
+            ]
+        }
+    },
+    {
+        "id": "c0a060de67dce99fe1fada13cdb69d132b51bd1df83706df0891a902c8c50347i0",
+        "meta": {
+            "name": "Ape 50 Certificate Of Authentication",
+            "attributes": [
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
                 }    
             ]
         }
