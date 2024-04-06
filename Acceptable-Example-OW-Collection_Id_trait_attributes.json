@@ -497,17 +497,25 @@
         }
     },
     {
-        "id": "edc74267c684851b037746fdf4c9f10a57b561420d166e69721d083104419816i0",
+        "id": "c64c4eafb45764161a760bdaf54d0aba4db95bfa399fc12c0b4805b5f56e7792i0",
         "meta": {
-            "name": "Ape 27",
+            "name": "Easter Ape 27",
             "attributes": [
                 {
                     "trait_type": "Direction",
-                    "value": "Later Revealed Easter Egg"
+                    "value": "Front Facing"
                 },
                 {
                     "trait_type": "Background",
-                    "value": "Later Revealed Easter Egg"
+                    "value": "Cryptographic Easter Eggs"
+                },
+                {
+                    "trait_type": "Steganography",
+                    "value": "Encoded Hidden Message"
+                },
+                {
+                    "trait_type": "Teeth",
+                    "value": "GOLD Grill"
                 }
             ]
         }
@@ -1201,7 +1209,7 @@
         }
     },
     {
-        "id": "6a84fbd23956f525d93b50c766b1de1e42aaf2815923025bb02b0000cd16fa80i0",
+        "id": "3ebfd9afd33aaab43d7cbaa160aa57596355a4fc4734477ac3132c1828728e27i0",
         "meta": {
             "name": "Easter Ape 27 Certificate Of Authentication",
             "attributes": [
