@@ -4,7 +4,7 @@
 
 
 # Usage:
-- Clone Repo : 
+- Clone Repo : https://github.com/GreatApe42069/OW-DM-DL_Collection-json-Creator.git
 
 - Enter your Collection info in Format of OW into the input.json and save
 
