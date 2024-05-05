@@ -15,3 +15,13 @@
 
 - Once inside Working Directory run the script using command
 `python CollectionJsonConverter.py`
+
+
+# Contributing
+à
+If you'd like to contribute or donate to our projects, please donate in Dogecoin. For contributors its as easy as opening issues, and creating pull requests
+
+***If You would like to support with Donations, Send all Dogecoin to the following Contributor:***
+
+**"handle": "Great Ape" "at": "@Greatape42069E" "dogecoin_address": "DBpLvNcR1Zj8B6dKJp4n3XEAT4FmRxbnJb"**
+
