@@ -31,7 +31,6 @@ def convert_to_format3(input_data):
             output_item = {
                 "inscriptionId": item["id"],
                 "name": item["meta"]["name"],
-                "imageURI": "https://hi_res_img_placeholder.png",
                 "collectionSymbol": "collection_name",
                 "metadata": {}
             }
@@ -43,7 +42,6 @@ def convert_to_format3(input_data):
             output_item = {
                 "inscriptionId": item["inscriptionId"],
                 "name": item["name"],
-                "imageURI": "https://hi_res_img_placeholder.png",
                 "collectionSymbol": "collection_name",
                 "metadata": {}
             }
